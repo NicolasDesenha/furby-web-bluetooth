@@ -22,10 +22,10 @@
         ]
     },
     {
-        "file": "chilli.dlc", 
-        "title": "Chilli",
+        "file": "001_full.gif.dlc", 
+        "title": "001_full.gif test",
         "buttons": [
-            { "title": "Chilli ", "action": [75,0,4,4] }
+            { "title": "Chilli ", "action": [27,6,3,0] }
         ]
     }
 ]
