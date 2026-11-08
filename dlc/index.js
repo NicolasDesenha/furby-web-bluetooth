@@ -22,10 +22,10 @@
         ]
     },
     {
-        "file": "001_full.gif.dlc", 
-        "title": "001_full.gif test",
+        "file": "dlc/WhatsApp Video 2026-11-07 at 22.47.42.mp4", 
+        "title": "Dino Dance test1",
         "buttons": [
-            { "title": "Chilli ", "action": [27,6,3,0] }
+            { "title": "Dino Dance test1 ", "action": [27,6,3,0] }
         ]
     }
 ]
